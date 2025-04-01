@@ -3,7 +3,7 @@ import asyncio
 import requests
 from bs4 import BeautifulSoup
 
-TOKEN = 'MTM1NjU1NTEyMTY3NjM5MDUwMA.GO1nGq.1wYfCgTo7Q7-Xs2ZpSRq1CY8uhCSmnnfvCu63I'
+TOKEN = ''
 CHANNEL_ID = 1270664553902116948  # Replace with the channel ID you want to send the message to
 
 intents = discord.Intents.default()
